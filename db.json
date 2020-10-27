@@ -1,8 +1,8 @@
 {
   "feeds": [
-    { "id": 1, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail" },
-    { "id": 2, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail" },
-    { "id": 3, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail" },
-    { "id": 4, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail" }
+    { "id": 1, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail", "feedContent":{}, "singer":{}, "statistics":{}},
+    { "id": 2, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail", "feedContent":{}, "singer":{}, "statistics":{}},
+    { "id": 3, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail", "feedContent":{}, "singer":{}, "statistics":{}},
+    { "id": 4, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail", "feedContent":{}, "singer":{}, "statistics":{}}
   ]
 }
