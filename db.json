@@ -1,8 +1,8 @@
 {
   "feeds": [
-    { "id": 1, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail", "feedContent":{}, "singer":{}, "statistics":{}},
+    { "id": 1, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail", "feedContent":{}, "singer":{}, "statistics":{"like":121, "play": 1234}},
     { "id": 2, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail", "feedContent":{}, "singer":{}, "statistics":{}},
-    { "id": 3, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail", "feedContent":{}, "singer":{}, "statistics":{}},
+    { "id": 3, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail", "feedContent":{}, "singer":{}, "statistics":{"like":14121, "play": 156234}},
     { "id": 4, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail", "feedContent":{}, "singer":{}, "statistics":{}}
   ]
 }
