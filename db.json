@@ -1,8 +1,20 @@
 {
   "feeds": [
-    { "id": 1, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail", "feedContent":{}, "singer":{}, "statistics":{"like":121, "play": 1234}},
-    { "id": 2, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail", "feedContent":{}, "singer":{}, "statistics":{}},
-    { "id": 3, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail", "feedContent":{}, "singer":{}, "statistics":{"like":14121, "play": 156234}},
-    { "id": 4, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail", "feedContent":{}, "singer":{}, "statistics":{}}
+    { "id": 1, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail", 
+     "feedContent":{"title":"Soch Na Sake", "artist": "Arijit Singh","language":"Hindi", "is_liked": true,"duration":"120", "report":"good song","bookmark":"Yes","song_info":"Nice Awesome Singer"}, 
+     "singer":{"profile_id":"shiraj1394", "profile_url":"","name":"Shiraj Sayed"}, 
+     "statistics":{"like":121, "play": 1234}},
+    { "id": 2, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail",
+     "feedContent":{"title":"Tum hi aana", "artist": "Jubin Nutaliya","language":"Hindi", "is_liked": false,"duration":"160", "report":"good song","bookmark":"Yes","song_info":"Nice Awesome Singer"}, 
+     "singer":{"profile_id":"shiraj1394", "profile_url":"","name":"Shiraj Sayed"},
+     "statistics":{}},
+    { "id": 3, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail",
+     "feedContent":{"title":"Dil Diya Gallaa", "artist": "Atif Aslam","language":"Hindi", "is_liked": true,"duration":"180", "report":"good song","bookmark":"No","song_info":"Nice Awesome Singer"}, 
+     "singer":{"profile_id":"shiraj1394", "profile_url":"","name":"Shiraj Sayed"},
+     "statistics":{"like":14121, "play": 156234}},
+    { "id": 4, "media_type": "solo", "media_url": "Url", "lyrics": "lyrics", "thumbnail_url": "thumbnail",
+     "feedContent":{"title":"Barish", "artist": "Neha Kakkar","language":"Hindi", "is_liked": false,"duration":"100", "report":"good song","bookmark":"Yes","song_info":"Nice Awesome Singer"}, 
+     "singer":{"profile_id":"shiraj1394", "profile_url":"","name":"Shiraj Sayed"},
+     "statistics":{}}
   ]
 }
