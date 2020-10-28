@@ -1,0 +1,14 @@
+{
+  "music_language": [
+    "language_name": "Hindi",
+    "language_url": "check this",
+    "is_language_selected": true
+  ],
+  "display_language": "English",
+  "general_setting": {
+      "about": "Sensibol",
+      "help": "Help Him",
+      "account": "shirajsayed13",
+      "auto_play": "enable"
+   }
+}
