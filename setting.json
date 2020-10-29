@@ -1,9 +1,11 @@
 {
+  "setting" : {
   "display_language": "English",
   "general_setting": {
       "about": "Sensibol",
       "help": "Help Him",
       "account": "shirajsayed13",
       "auto_play": "enable"
-   }
+     }
+  }
 }
