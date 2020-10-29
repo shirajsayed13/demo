@@ -1,4 +1,5 @@
 {
+  "setting" : {
   "music_language": [
     "language_name": "Hindi",
     "language_url": "check this",
@@ -11,4 +12,5 @@
       "account": "shirajsayed13",
       "auto_play": "enable"
    }
+}
 }
