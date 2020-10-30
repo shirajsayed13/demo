@@ -1,0 +1,25 @@
+{
+  "musiclang" : [
+    {
+    "language_name": "Hindi",
+    "language_url": "Google.com",
+    "is_language_selected": true
+    },
+     {
+    "language_name": "English",
+    "language_url": "Google.com",
+    "is_language_selected": false
+    },
+     {
+    "language_name": "Punjabi",
+    "language_url": "Google.com",
+    "is_language_selected": true
+    },
+     {
+    "language_name": "Marathi",
+    "language_url": "Google.com",
+    "is_language_selected": false
+    }
+ ]
+}
+
